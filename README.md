@@ -8,3 +8,8 @@ model for forecasting weather parameters crucial to integrated pest management. 
 context, this project specifically delves into the implementation of Time-LLM, a novel approach
 proposed in the research paper titled ’TIME-LLM: Time Series Forecasting by Reprogramming
 Large Language Models’, ICLR 2024 [Paper Link](https://arxiv.org/abs/2310.01728)
+
+
+This work is a part of EE691 - R&D Project in IIT Bombay (Spring'23)
+
+Code References: [Click Here](https://github.com/KimMeen/Time-LLM)
